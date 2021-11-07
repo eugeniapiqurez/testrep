@@ -1,0 +1,2 @@
+# Escribir hola
+print("Hola")
